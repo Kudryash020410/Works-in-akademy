@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 880px;
+    background-color: #ffae8f;
+}
+
+.game_field{
+    height: 800px;
+    width: 800px;
+    background-color: #ff677d;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#game_f{
+    background-color: rgb(194, 64, 64);
+    border-radius: 7px;
+
+}
+.foodImg{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+ 
